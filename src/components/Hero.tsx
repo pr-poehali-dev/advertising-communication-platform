@@ -30,8 +30,7 @@ const Hero = () => {
           </h1>
 
           <p className="text-xl md:text-2xl mb-8 text-white/90 max-w-2xl mx-auto">
-            Современная система управления заказами для рекламных агентств.
-            Отслеживай проекты, загружай файлы, планируй задачи.
+            Рекламная компания Прогресс
           </p>
 
           <div className="flex flex-col sm:flex-row gap-4 justify-center items-center mb-12">
